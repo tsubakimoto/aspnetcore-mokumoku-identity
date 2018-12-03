@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MokumokuIdentityApp", "Moku
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityDefaultUIApp", "IdentityDefaultUIApp\IdentityDefaultUIApp.csproj", "{68368DC2-60EA-47FA-A396-834A632D0C88}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityCustomUIApp", "IdentityCustomUIApp\IdentityCustomUIApp.csproj", "{2297F71C-C9AF-41C0-B09B-627EE1185317}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{68368DC2-60EA-47FA-A396-834A632D0C88}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{68368DC2-60EA-47FA-A396-834A632D0C88}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{68368DC2-60EA-47FA-A396-834A632D0C88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2297F71C-C9AF-41C0-B09B-627EE1185317}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2297F71C-C9AF-41C0-B09B-627EE1185317}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2297F71C-C9AF-41C0-B09B-627EE1185317}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2297F71C-C9AF-41C0-B09B-627EE1185317}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

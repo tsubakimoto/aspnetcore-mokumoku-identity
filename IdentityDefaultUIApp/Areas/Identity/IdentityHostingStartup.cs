@@ -21,6 +21,12 @@ namespace IdentityDefaultUIApp.Areas.Identity
 
                 services.AddDefaultIdentity<IdentityUser>()
                     .AddEntityFrameworkStores<IdentityDefaultUIAppIdentityDbContext>();
+
+                // or
+
+                //services.AddIdentity<IdentityUser, IdentityRole>()
+                //    .AddDefaultUI()
+                //    .AddEntityFrameworkStores<IdentityDefaultUIAppIdentityDbContext>();
             });
         }
     }

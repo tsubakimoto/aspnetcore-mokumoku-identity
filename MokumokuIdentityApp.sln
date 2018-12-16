@@ -9,9 +9,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IdentityDefaultUIApp", "Ide
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IdentityCustomUIApp", "IdentityCustomUIApp\IdentityCustomUIApp.csproj", "{2297F71C-C9AF-41C0-B09B-627EE1185317}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityCustomUIApp22", "IdentityCustomUIApp22\IdentityCustomUIApp22.csproj", "{0E2D4AE1-48E3-4B9B-809B-5E8BBA987B52}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IdentityCustomUIApp22", "IdentityCustomUIApp22\IdentityCustomUIApp22.csproj", "{0E2D4AE1-48E3-4B9B-809B-5E8BBA987B52}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityDefaultUIApp22", "IdentityDefaultUIApp22\IdentityDefaultUIApp22.csproj", "{10092B0F-45B1-4F0B-864B-8DF7244A0086}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IdentityDefaultUIApp22", "IdentityDefaultUIApp22\IdentityDefaultUIApp22.csproj", "{10092B0F-45B1-4F0B-864B-8DF7244A0086}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JwtApp", "JwtApp\JwtApp.csproj", "{E7D2A905-98C2-4D6D-B5A9-0486C359B062}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JwtApi", "JwtApi\JwtApi.csproj", "{141F3BF0-7A59-4C6B-9EF1-FC1B3C6C0BFD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,14 @@ Global
 		{10092B0F-45B1-4F0B-864B-8DF7244A0086}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{10092B0F-45B1-4F0B-864B-8DF7244A0086}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{10092B0F-45B1-4F0B-864B-8DF7244A0086}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7D2A905-98C2-4D6D-B5A9-0486C359B062}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7D2A905-98C2-4D6D-B5A9-0486C359B062}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7D2A905-98C2-4D6D-B5A9-0486C359B062}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7D2A905-98C2-4D6D-B5A9-0486C359B062}.Release|Any CPU.Build.0 = Release|Any CPU
+		{141F3BF0-7A59-4C6B-9EF1-FC1B3C6C0BFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{141F3BF0-7A59-4C6B-9EF1-FC1B3C6C0BFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{141F3BF0-7A59-4C6B-9EF1-FC1B3C6C0BFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{141F3BF0-7A59-4C6B-9EF1-FC1B3C6C0BFD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
